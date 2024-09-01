@@ -1,3 +1,9 @@
+"""
+Luke McElya
+gpa_check.py
+App checks a student's GPA to see if they have made the Dean's List or Honor Roll
+"""
+
 while True:
 
     last_name = str(input("Enter student last name or 'ZZZ' to quit: "))
